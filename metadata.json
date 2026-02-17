@@ -1,0 +1,9 @@
+{
+  "name": "Nexus CRM & Marketing Automation",
+  "description": "A high-performance Marketing Automation and CRM platform with Kanban pipelines, contact management, visual automation builders, and AI-powered communication tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
