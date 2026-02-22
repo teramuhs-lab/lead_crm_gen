@@ -10,7 +10,13 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+dist-server
 *.local
+.env
+drizzle
+
+# Temporary files
+.tmp/
 
 # Editor directories and files
 .vscode/*
